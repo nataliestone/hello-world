@@ -1,5 +1,5 @@
 # hello-world
-GitHub tutorial repository.
+GitHub tutorial.
 
 A cat on the Net
 When on GitHub, a code cat
