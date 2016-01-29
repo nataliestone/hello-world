@@ -1,2 +1,2 @@
 # hello-world
-GitHub tutorial repository.
+GitHub tutorial.
